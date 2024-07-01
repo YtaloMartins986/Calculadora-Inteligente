@@ -1,0 +1,30 @@
+algoritmo "CalculadoraInteligente1.5"
+var
+  Nome: caractere
+  N1, N2:inteiro
+  Rm: real
+inicio
+  Escreva ("Qual O Seu Nome? " , nome)
+   Leia (nome)
+  Escreval ("")
+  Escreval ("______________________")
+  Escreval (" Seja Bem Vindo " , nome , "!")
+  Escreval ("______________________")
+  Escreval ("")
+  Escreva ("   - inicie aqui sua multiplica�ao! -")
+  Escreval ("")
+  Escreval ("____________________")
+  Escreva ("Digite Um Numero:")
+   Leia (N1)
+  Escreval ("____________________")
+  Escreval ("")
+  Escreval ("______________________")
+  Escreva ("Digite Outro Numero:")
+   Leia (N2)
+  Escreval ("______________________")
+  Rm <- N1*N2
+  Escreval ("")
+  Escreval ("                      |---------------------------------|")
+  Escreval ("                       ", Nome, " O Resultado De" , N1, " X", N2, " E" ,Rm)
+  Escreval ("                      |---------------------------------|")
+fimalgoritmo
