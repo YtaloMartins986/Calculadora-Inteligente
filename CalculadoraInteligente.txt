@@ -1,4 +1,4 @@
-algoritmo "CalculadoraInteligente1.5"
+algoritmo "CalculadoraInteligente1.0"
 var
   Nome: caractere
   N1, N2:inteiro
