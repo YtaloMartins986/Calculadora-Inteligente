@@ -24,7 +24,7 @@ inicio
   Escreval ("______________________")
   Rm <- N1*N2
   Escreval ("")
-  Escreval ("                      |---------------------------------|")
+  Escreval ("                      |----------------------------------|")
   Escreval ("                       ", Nome, " O Resultado De" , N1, " X", N2, " E" ,Rm)
-  Escreval ("                      |---------------------------------|")
+  Escreval ("                      |----------------------------------|")
 fimalgoritmo
